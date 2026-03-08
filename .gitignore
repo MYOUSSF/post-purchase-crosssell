@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+*.parquet
+*.csv
+models/*.pkl
+mlruns/
+results/plots/
+results/*.csv
+.DS_Store
+.idea/
+.vscode/
+*.ipynb
+.ipynb_checkpoints/
